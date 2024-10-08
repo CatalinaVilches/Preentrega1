@@ -1,0 +1,13 @@
+
+ .cartCont{
+   margin-right: 40px;
+   display: flex;
+   flex-direction: row-reverse;
+ }
+
+ .cantidad{
+   margin-right: 40px;
+   margin-top: 15px;
+   font-size: 25px;
+ }
+
